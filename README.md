@@ -12,8 +12,8 @@ Predictors
 
 OE
 * OE_trad_predictive_model_scripts_v4.2.1 John VanSickle's scripts for creating traditional RIVPAC O/E indicies. This folder contains its own README file.
-* macroinvert_presence_absence.csv which contains a site by species presence absence matrix for reference and degraded sites.
-* OE_rra_nf_calculation.xlsx is a series of worksheets that calculate the trait-based O/E using the equation presented in the publication. Only example calculations for O/E-rra without novel measrues of flow regime are provided.
+* macroinvert_presence_absence.csv which contains a site by species presence/absence matrix for reference and degraded sites.
+* OE_rra_nf_calculation.xlsx is a series of worksheets that calculate the trait-based O/E using the equation presented in the publication. Only example calculations for O/E-rra without novel measures of flow regime are provided.
 * Two R workspaces that contain randomforest objects needed to run the two versions of the traditional taxa-based O/E: nf (without novel measures of flow regime.
 
 MMI_IndividualMetrics
